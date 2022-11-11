@@ -1,1 +1,2 @@
 # SENA_Project---Road_Network_Analysis
+Road network Analysis is Done. In this project we perform the analysis using the links (roads) and nodes(places) in the network. The dataset is loaded, visualized and network metrics are found. The analysis that are performed on the network is finding the shortest path between source and the destination, finding the optimal path where the average speed and the traffic is taken into consideration and a variation of the same analysis where time is taken into consideration.
